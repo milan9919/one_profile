@@ -1,0 +1,14 @@
+RewriteEngine On
+
+RewriteRule ^/?$ index.php [L]
+RewriteRule ^logout/?$ logout.php [L]
+RewriteRule ^ajax_request/?$ ajax_request.php [L]
+RewriteRule ^step_1/?$ step_1.php [L]
+RewriteRule ^step_2/?$ step_2.php [L]
+RewriteRule ^step_3/?$ step_3.php [L]
+RewriteRule ^step_4/?$ step_4.php [L]
+RewriteRule ^step_5/?$ step_5.php [L]
+RewriteRule ^step_6/?$ step_6.php [L]
+RewriteRule ^step_7/?$ step_7.php [L]
+RewriteRule ^my_profile/?$ my_profile.php [L]
+RewriteRule ^profile/?$ profile.php [L]

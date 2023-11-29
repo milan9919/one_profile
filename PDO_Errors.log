@@ -1,0 +1,218 @@
+2023-04-15 07:04:59 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'referral_code' in 'where clause': 340
+2023-06-05 07:06:43 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' (SELECT image FROM tbl_service_image WHERE service_id=tbl_service.id LIMIT 1) a' at line 1: 340
+2023-06-05 07:06:05 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' (SELECT image FROM tbl_service_image WHERE service_id=tbl_service.id LIMIT 1) a' at line 1: 340
+2023-06-05 07:06:08 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' (SELECT image FROM tbl_service_image WHERE service_id=tbl_service.id ORDER BY i' at line 1: 340
+2023-06-05 07:06:11 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' (SELECT image FROM tbl_service_image WHERE service_id=tbl_service.id ORDER BY i' at line 1: 340
+2023-06-05 07:06:19 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' (SELECT image FROM tbl_service_image WHERE service_id=tbl_service.id) as servic' at line 1: 340
+2023-06-05 07:06:21 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' (SELECT image FROM tbl_service_image WHERE service_id=tbl_service.id) as servic' at line 1: 340
+2023-06-05 07:06:01 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' (SELECT image FROM tbl_service_image WHERE service_id=tbl_service.id LIMIT 1) a' at line 1: 340
+2023-06-05 07:06:57 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' (SELECT image FROM tbl_service_image WHERE service_id=s.id LIMIT 1) as service_' at line 1: 340
+2023-06-05 08:06:49 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.id' in 'where clause': 340
+2023-06-05 08:06:36 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.id' in 'where clause': 340
+2023-06-05 08:06:25 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.id' in 'where clause': 340
+2023-06-05 08:06:51 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-05 08:06:00 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'service' in 'where clause': 340
+2023-06-05 08:06:02 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-05 08:06:44 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-05 08:06:19 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-05 08:06:29 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-05 08:06:37 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 05:06:51 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 05:06:45 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'service' in 'where clause': 340
+2023-06-06 05:06:47 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 05:06:54 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 05:06:20 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '**********' at line 1: 340
+2023-06-06 05:06:27 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 05:06:06 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'service' in 'where clause': 340
+2023-06-06 05:06:40 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 05:06:40 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 05:06:49 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 05:06:44 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 05:06:07 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 06:06:10 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 06:06:56 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 06:06:54 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-06-06 06:06:20 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-06-06 06:06:38 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-06-06 06:06:57 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-06-06 06:06:38 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-06-06 06:06:51 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-06-06 06:06:16 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 06:06:30 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'png' at line 1: 340
+2023-06-06 06:06:30 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 06:06:35 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 06:06:47 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-06 06:06:24 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'images' in 'where clause': 340
+2023-06-13 05:06:50 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-06-13 05:06:43 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-06-13 05:06:25 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ajax_request' in 'where clause': 340
+2023-06-13 05:06:19 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ajax_request' in 'where clause': 340
+2023-06-13 05:06:01 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ajax_request' in 'where clause': 340
+2023-06-13 05:06:21 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ajax_request' in 'where clause': 340
+2023-06-13 05:06:32 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ajax_request' in 'where clause': 340
+2023-06-13 05:06:21 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ajax_request' in 'where clause': 340
+2023-06-13 05:06:13 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ajax_request' in 'where clause': 340
+2023-07-15 12:07:48 :: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u927605346_linkedin_db.tbl_tags' doesn't exist: 340
+2023-10-04 02:10:50 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-10-04 02:10:31 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-10-04 02:10:39 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-10-04 03:10:11 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-10-04 03:10:25 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1: 340
+2023-10-04 04:10:44 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 685
+2023-10-04 04:10:06 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 685
+2023-10-04 04:10:45 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 685
+2023-10-04 04:10:11 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 685
+2023-10-06 04:10:37 :: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u927605346_linkedin_db.aa' doesn't exist: 340
+2023-10-06 04:10:38 :: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u927605346_linkedin_db.aa' doesn't exist: 340
+2023-10-06 04:10:39 :: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u927605346_linkedin_db.aa' doesn't exist: 340
+2023-10-06 04:10:17 :: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u927605346_linkedin_db.aa' doesn't exist: 340
+2023-10-06 04:10:50 :: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u927605346_linkedin_db.aa' doesn't exist: 340
+2023-10-09 08:10:02 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':user_id
+                                          AND tag_id IN (SELECT id F...' at line 3: 340
+2023-10-09 08:10:20 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':user_id
+                                          AND tag_id IN (SELECT id F...' at line 3: 340
+2023-10-09 08:10:10 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND tag_id IN (SELECT id FROM tbl_tags WHERE tag_type = 'category')' at line 4: 340
+2023-10-09 10:10:46 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tag_name' in 'field list': 340
+2023-10-09 10:10:10 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tag_name' in 'field list': 340
+2023-10-09 10:10:17 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':user_id' at line 4: 340
+2023-10-09 10:10:32 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':user_id' at line 4: 340
+2023-10-09 10:10:04 :: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u927605346_linkedin_db.bb' doesn't exist: 340
+2023-10-09 11:10:17 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':user_id' at line 3: 340
+2023-10-09 11:10:02 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*,(SELECT tag_name FROM tbl_tags WHERE id = 1) FROM tbl_user_tags WHERE user_...' at line 1: 340
+2023-10-09 11:10:20 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*,(SELECT tag_name FROM tbl_tags WHERE id = 1) FROM tbl_user_tags WHERE user_...' at line 1: 340
+2023-10-09 11:10:15 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, med...' at line 1: 685
+2023-10-09 11:10:35 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'my_profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, ...' at line 1: 685
+2023-10-09 12:10:30 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'my_profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, ...' at line 1: 685
+2023-10-09 01:10:44 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'my_profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, ...' at line 1: 685
+2023-10-09 04:10:51 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'my_profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, ...' at line 1: 685
+2023-10-09 04:10:34 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'my_profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, ...' at line 1: 685
+2023-10-09 04:10:15 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'my_profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, ...' at line 1: 685
+2023-10-09 04:10:44 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'my_profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, ...' at line 1: 685
+2023-10-09 05:10:16 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'my_profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, ...' at line 1: 685
+2023-10-09 05:10:56 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'my_profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, ...' at line 1: 685
+2023-10-09 05:10:39 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'my_profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, ...' at line 1: 685
+2023-10-10 03:10:57 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'my_profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, ...' at line 1: 685
+2023-10-10 03:10:17 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'my_profile', availability = NULL, gitub_title = NULL, gitub_url = NULL, ...' at line 1: 685
+2023-10-10 04:10:03 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 04:10:48 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 04:10:34 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 04:10:21 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 04:10:52 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 04:10:30 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 05:10:11 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 08:10:20 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 08:10:43 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 08:10:56 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 08:10:57 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 09:10:24 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 09:10:12 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 09:10:08 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-10 09:10:27 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'my_profile' in 'field list': 685
+2023-10-11 12:10:11 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM tbl_tags
+                                        WHERE id IN FROM tbl_ta...' at line 1: 340
+2023-10-11 12:10:37 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM tbl_tags
+                                        WHERE id IN FROM tbl_ta...' at line 1: 340
+2023-10-11 12:10:31 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7: 340
+2023-10-11 12:10:47 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM tbl_tags WHERE id = '1'' at line 5: 340
+2023-10-11 12:10:15 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM tbl_tags WHERE id = '1'' at line 5: 340
+2023-10-11 12:10:20 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM tbl_tags WHERE id = '1'' at line 5: 340
+2023-10-11 01:10:13 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '1'' at line 1: 340
+2023-10-11 01:10:58 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '1'' at line 1: 340
+2023-10-11 01:10:27 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '1'' at line 1: 340
+2023-10-11 01:10:48 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '1'' at line 1: 340
+2023-10-11 02:10:01 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '1'' at line 1: 340
+2023-10-11 02:10:11 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '1'' at line 1: 340
+2023-10-11 03:10:32 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 03:10:48 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 04:10:16 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 04:10:39 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 04:10:13 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 05:10:58 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 05:10:41 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 05:10:02 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 05:10:43 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 05:10:05 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 05:10:05 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 05:10:37 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 05:10:01 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 05:10:25 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-11 05:10:07 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-11 05:10:34 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-11 05:10:03 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-11 05:10:18 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-11 05:10:09 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-11 05:10:33 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-11 05:10:13 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-11 06:10:35 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-11 06:10:28 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 04:10:15 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 04:10:03 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 04:10:34 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 04:10:23 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 04:10:26 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 04:10:18 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 04:10:40 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 04:10:25 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 04:10:17 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 04:10:01 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 04:10:12 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 06:10:24 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 06:10:22 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 07:10:56 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 07:10:52 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 07:10:15 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 07:10:51 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 07:10:06 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 07:10:53 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 08:10:44 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 08:10:47 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 08:10:51 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 09:10:01 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 09:10:44 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 09:10:02 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 09:10:51 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 09:10:12 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 09:10:47 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 09:10:15 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 09:10:06 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 09:10:03 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 09:10:14 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 09:10:26 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 09:10:26 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 09:10:15 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 10:10:01 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 10:10:25 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause': 340
+2023-10-12 10:10:56 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?)' at line 1: 340
+2023-10-12 10:10:12 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?)' at line 1: 340
+2023-10-12 11:10:38 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:25 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:41 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:39 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:58 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:12 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:30 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:52 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:18 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:54 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:35 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:48 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:23 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:10 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:48 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:23 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-12 11:10:17 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-13 06:10:12 :: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'skill' cannot be null: 513
+2023-10-13 06:10:05 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 513
+2023-10-13 06:10:38 :: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'skill' cannot be null: 513
+2023-10-13 07:10:33 :: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'skill' cannot be null: 513
+2023-10-16 08:10:00 :: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'skill' cannot be null: 513
+2023-10-16 08:10:02 :: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'skill' cannot be null: 513
+2023-10-16 09:10:16 :: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'skill' cannot be null: 513
+2023-10-17 04:10:42 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-18 04:10:43 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-18 04:10:45 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-19 04:10:01 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-20 04:10:03 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-20 04:10:03 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-20 04:10:37 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
+2023-10-25 02:10:40 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1: 340
