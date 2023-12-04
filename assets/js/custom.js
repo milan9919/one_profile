@@ -387,7 +387,7 @@ function addObjective() {
                                                     <textarea id="description_' + count +'_1" name="description_' + count +'[]" placeholder="Description" style="width:100%;padding: 2px 10px 2px 10px; box-shadow: 0 2px 6px rgb(0 0 0 / 7%), 0 1px 6px rgb(0 0 0 / 20%);"></textarea>\
                                                 </div>\
                                                 <div class="col-12 col-lg-12 d-flex mt-2">\
-                                                    <input type="text" id="quarterly_revenue_' + count +'_1" name="quarterly_revenue_' + count +'[]" placeholder="" height="20px" style="padding: 2px 10px 2px 10px; box-shadow: 0 2px 6px rgb(0 0 0 / 7%), 0 1px 6px rgb(0 0 0 / 20%);">\
+                                                    <input type="text" id="skill_' + count +'_1" name="skill_' + count +'[]" placeholder="" height="20px" style="padding: 2px 10px 2px 10px; box-shadow: 0 2px 6px rgb(0 0 0 / 7%), 0 1px 6px rgb(0 0 0 / 20%);">\
                                                 </div>\
                                                 <div class="col-12 col-lg-4">\
                                                     <fieldset>\
@@ -459,7 +459,7 @@ function addKeyResults(row_id){
                                 <textarea id="description_' + ele_id +'" name="description_' + row_id +'[]" placeholder="Description" style="width:100%;padding: 2px 10px 2px 10px; box-shadow: 0 2px 6px rgb(0 0 0 / 7%), 0 1px 6px rgb(0 0 0 / 20%);"></textarea>\
                             </div>\
                             <div class="col-12 col-lg-12 d-flex mt-2">\
-                                <input type="text" id="quarterly_revenue_' + ele_id +'" name="quarterly_revenue_'+row_id+'[]" placeholder="" height="20px" style="padding: 2px 10px 2px 10px; box-shadow: 0 2px 6px rgb(0 0 0 / 7%), 0 1px 6px rgb(0 0 0 / 20%);">\
+                                <input type="text" id="skill_' + ele_id +'" name="skill_'+row_id+'[]" placeholder="" height="20px" style="padding: 2px 10px 2px 10px; box-shadow: 0 2px 6px rgb(0 0 0 / 7%), 0 1px 6px rgb(0 0 0 / 20%);">\
                             </div>\
                             <div class="col-12 col-lg-4">\
                                 <fieldset>\
