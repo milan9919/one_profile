@@ -42,6 +42,8 @@
     </footer>
 </div>
 <!--<script src="<?php echo FRONT_SITE_JS; ?>jquery-3.6.0.min.js"></script>-->
+<script type="text/javascript" src="<?php echo SITE_URL; ?>assets/dist/bootstrap-tagsinput.js"></script>
+<script type="text/javascript" src="<?php echo SITE_URL; ?>assets/dist/bootstrap-tagsinput.min.js"></script>
 <script src="<?php echo FRONT_SITE_JS; ?>custom.js"></script>
 </body>
 

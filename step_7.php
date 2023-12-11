@@ -95,9 +95,9 @@ $objectives = $db->pdoQuery("SELECT * FROM tbl_user_objectives WHERE user_id = '
                                                             <img src="<?= SITE_IMG ?>goal_2.png" class="ml-2" style="margin-top: 5px;" height="25px" alt="">
                                                             <p class="text_mobile ml-2" style="width: 80%; word-wrap: break-word;" ><b><?= $row['quarterly_revenue'] ?></b><br><?= $row['description'] ?><br><?= $row['skill'] ?></p>
                                                             <p class="text_mobile_1" style="margin-left: 80px; color:#039222;">&nbsp;</p>
-                                                            <div class="text_mobile_2 remove_field d-flex justify-content-end" style="margin-left: 30px;">
+                                                            <!-- <div class="text_mobile_2 remove_field d-flex justify-content-end" style="margin-left: 30px;">
                                                                 <i class="fa fa-times mt-2 mr-3" aria-hidden="true"></i>
-                                                            </div>
+                                                            </div> -->
                                                         </div>
                                                     </div>
                 

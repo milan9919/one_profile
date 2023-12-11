@@ -484,7 +484,12 @@ $objectives = $db->pdoQuery("SELECT * FROM tbl_user_objectives WHERE user_id = '
 
                                                         <div class="row">
                                                             <div class="col-12 col-lg-12 d-flex">
-                                                                <p class="text____box tax_box_1 pb-5" style="background: #e7e7e7;">Description:- <?= $row['description'] ?></p>
+                                                                <p class="text____box tax_box_1 pb-3" style="background: #e7e7e7;">Description:- <?= $row['description'] ?></p>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row">
+                                                            <div class="col-12 col-lg-12 d-flex">
+                                                                <p class="text____box tax_box_1 pb-3" style="background: #e7e7e7;">Skill:- <?= $row['skill'] ?></p>
                                                             </div>
                                                         </div>
                                                     </div>

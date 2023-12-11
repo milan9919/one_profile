@@ -26,8 +26,6 @@ include("config.php");
     <link rel="stylesheet" type="text/css" href="./assets/dist/bootstrap-tagsinput.css">
 
     <script type="text/javascript" src="./assets/js/app.js"></script>
-    <script type="text/javascript" src="./assets/dist/bootstrap-tagsinput.js"></script>
-    <script type="text/javascript" src="./assets/dist/bootstrap-tagsinput.min.js"></script>
     <script>
         var SITE_URL = '<?= SITE_URL ?>';
     </script>

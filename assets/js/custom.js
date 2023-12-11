@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
     $('.check-tags').change(function() {
         if(this.checked) {
@@ -387,7 +386,7 @@ function addObjective() {
                                                     <textarea id="description_' + count +'_1" name="description_' + count +'[]" placeholder="Description" style="width:100%;padding: 2px 10px 2px 10px; box-shadow: 0 2px 6px rgb(0 0 0 / 7%), 0 1px 6px rgb(0 0 0 / 20%);"></textarea>\
                                                 </div>\
                                                 <div class="col-12 col-lg-12 d-flex mt-2">\
-                                                    <input type="text" id="skill_' + count +'_1" name="skill_' + count +'[]" placeholder="" height="20px" style="padding: 2px 10px 2px 10px; box-shadow: 0 2px 6px rgb(0 0 0 / 7%), 0 1px 6px rgb(0 0 0 / 20%);">\
+                                                    <input type="text" id="skill_' + count +'_1" name="skill_' + count +'[]" data-role="tagsinput" placeholder="" height="20px" style="padding: 2px 10px 2px 10px; box-shadow: 0 2px 6px rgb(0 0 0 / 7%), 0 1px 6px rgb(0 0 0 / 20%);">\
                                                 </div>\
                                                 <div class="col-12 col-lg-4">\
                                                     <fieldset>\
@@ -439,6 +438,9 @@ function addObjective() {
 
     $("#objective_div").append(html);
 
+    // $('#skill_' + count +'_1').tagsinput('items');
+    //$("input[data-role=tagsinput], select[multiple][data-role=tagsinput]").tagsinput();
+
     load_toggles();
 }
 
@@ -459,7 +461,7 @@ function addKeyResults(row_id){
                                 <textarea id="description_' + ele_id +'" name="description_' + row_id +'[]" placeholder="Description" style="width:100%;padding: 2px 10px 2px 10px; box-shadow: 0 2px 6px rgb(0 0 0 / 7%), 0 1px 6px rgb(0 0 0 / 20%);"></textarea>\
                             </div>\
                             <div class="col-12 col-lg-12 d-flex mt-2">\
-                                <input type="text" id="skill_' + ele_id +'" name="skill_'+row_id+'[]" placeholder="" height="20px" style="padding: 2px 10px 2px 10px; box-shadow: 0 2px 6px rgb(0 0 0 / 7%), 0 1px 6px rgb(0 0 0 / 20%);">\
+                                <input type="text" id="skill_' + ele_id +'" name="skill_'+row_id+'[]" data-role="tagsinput" placeholder="" height="20px" style="padding: 2px 10px 2px 10px; box-shadow: 0 2px 6px rgb(0 0 0 / 7%), 0 1px 6px rgb(0 0 0 / 20%);">\
                             </div>\
                             <div class="col-12 col-lg-4">\
                                 <fieldset>\
@@ -472,6 +474,7 @@ function addKeyResults(row_id){
                 </div>';
                 
     $("#key_results_div_" + row_id).append(html);
+    
     function removeKeyResults(ele_id) {
         $("#count_key_results_" + ele_id).slideUp(function() {
             $(this).remove();
@@ -508,7 +511,5 @@ function addKeyResults(row_id){
     let contentDiv = document.getElementsByClassName("content");
     contentDiv[index].style.height = contentDiv[index].scrollHeight + "px";
 }
-
-
 
 

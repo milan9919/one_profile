@@ -587,7 +587,6 @@ $objectives = $db->pdoQuery("SELECT * FROM tbl_user_objectives WHERE user_id = '
                     icons[i].classList.remove("fa-minus");
                     icons[i].classList.add("fa-plus");
                 }
-    
                 for (let j = 0; j < contentDiv.length; j++) {
                     if (j !== i) {
                         contentDiv[j].style.height = "0px";
